@@ -6,3 +6,4 @@ node_modules
 *.jsx
 package.json
 webpack.config.js
+!dist/app.js
