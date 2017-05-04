@@ -1,5 +1,4 @@
 .babelrc
-audio
 css
 node_modules
 *.js
